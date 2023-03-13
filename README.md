@@ -5,7 +5,7 @@
 $ download link：https://pan.baidu.com/s/1jmmgElK0yNHfMRzDC1raYA 
 $ extraction code：1il2
 ```
-Change this [line](https://github.com/BIT-TYJ/SSGM/blob/c8d3cbfcfb7bab46fe2845e422aad32924c59d94/SSGM.py#L806) with your own position storing the rosbag.
+Change this [line](https://github.com/BIT-TYJ/SSGM/blob/c8d3cbfcfb7bab46fe2845e422aad32924c59d94/SSGM.py#L806) in SSGM.py with your own position storing the rosbag.
 
 
 ## Run
