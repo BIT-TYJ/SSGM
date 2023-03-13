@@ -4,7 +4,7 @@ import re
 def get_score_from_file_GM_new():   #read P1 P2 P3 for calculate  the final score
     scores = []
     scores_num = []
-    f_data = open("on_scenenet_209/result.txt", "r")
+    f_data = open("result.txt", "r")
     try:
         all_the_text = f_data.read()  
         every_frame_information = all_the_text.split('query')
