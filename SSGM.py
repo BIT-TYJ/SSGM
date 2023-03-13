@@ -28,7 +28,7 @@ dateTime_p =  datetime.now() # get the current time
 str_p =  datetime.strftime(dateTime_p,'%Y-%m-%d-%h-%m-%s')
     
 if dataset_is_scenenet_209 == 1:
-    f_GM_information = open(str_p+"ours.txt", "a+")
+    f_GM_information = open("result.txt", "a+")
     
 query_frame_origin = 0  #query the frame from this number   ：）
 if_search_specially_query_frame = 1 # whether select the start  query frame 
