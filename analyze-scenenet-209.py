@@ -100,7 +100,7 @@ def R_P_area_calculate(precision_list, recall_list): #P-R curve area
     area = 0
     for i in range(len(recall_list)-1):
         area += float(precision_list[i] + precision_list[i+1]) * (recall_list[i+1] - recall_list[i]) /2
-    print( area)
+    print( "The area of the P-R curve is: "+str(area))
     return area
 
 R_P_area_calculate(precision_GM,recall_GM)
