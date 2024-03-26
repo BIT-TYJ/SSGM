@@ -1,4 +1,4 @@
 # SSGM: Spatial Semantic Graph Matching for Loop Closure Detection in Indoor Environments
 
-please wait for updating the code, see you soon~
-
+## Dataset
+The dataset is available at: [dataset_scenenet_209](https://drive.google.com/file/d/1TMKp0iFraOTDhiLa-xvTD_-svpn5nyM8/view?usp=drive_link)
